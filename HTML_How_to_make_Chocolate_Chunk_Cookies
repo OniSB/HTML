@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>How to make the best chocolate chunk cookie</title>
+</head>
+
+<body>
+  <h1>How to make the best chocolate chunk cookie</h1>
+    <p>This is a guide on How to make the best chocolate chunk cookie. It's suitable for you if you love the chunkier cookies which almost resemble brownies or cakes, and if you like chocolate
+    </p>
+      <section>
+        <h2>Ingredients</h2>  
+        <ul>
+          <li>1 cup (2 sticks or 16 tablespoons) unsalted butter, melted until browned and brought back to room temperature</li>
+          <li>2 and 1/3 cups all-purpose flour (plus more ONLY if the dough seems to need it; adding one tablespoon at a time)</li>
+          <li>1 teaspoon baking soda</li>
+          <li>1/2 teaspoon kosher salt</li>
+          <li>1 cup + 2 tablespoons dark brown sugar, packed</li>
+          <li>1/2 cup granulated sugar</li>
+          <li>1 tablespoon vanilla extract</li>
+          <li>2 large eggs, at room temperature</li>
+          <li>12 ounces semi-sweet chocolate, roughly chopped</li> 
+        </ul>
+        <figure>
+          <img src="https://bakerbynature.com/wp-content/uploads/2014/06/untitled-6-of-23-2-340x340.jpg" alt="A chunky chocolate chip cookie">
+        </figure>
+      </section>
+      <section>
+      </section>
+        <h2>Instructions</h2>
+          <h3>For the Brown Butter:</h3>
+          <ol>
+            <li>Place the butter in a small saucepan over medium-high heat and cook for 3 to 4 minutes – stirring almost constantly – until the butter has browned. Pour the brown butter into a heatproof bowl, being sure to scrape all of the "toasted" bits into the bowl as well. Place the bowl in the refrigerator for 1 hour, or until the butter is at room temperature. You’ll know the butter is at room temperature when you press a finger into the top and it makes a slight indentation. It should be solid but soft.</li>
+            <li>Once the butter is at room temperature, you're ready to get baking!</li>
+            <li>Preheat your oven to 375 degrees (F).</li>
+          </ol>            
+          <h3>For the Chocolate Chunk Cookies:</h3>
+          <ol>
+            <li>In a medium-sized bowl whisk together the flour, baking soda, and salt; set aside.</li>
+            <li>In a large bowl using a handheld electric mixer, or in the bowl of a stand mixer fitted with the paddle attachment, combine both sugars, vanilla, and browned butter; cream on medium-speed until light and fluffy; about 2 minutes. Add in the eggs, one at a time, beating for 15 seconds after each addition. Turn mixer off. Using a wooden spoon or sturdy rubber spatula, gently fold in the flour, stirring only until the flour begins to disappear. Fold in the chocolate chunks.</li>
+            <li>Roll 3 tablespoon sized scoops of dough between your palms to form a ball (they should be big; almost a 1/4 cup), then place on prepared sheet (make sure to leave enough room in between each cookie for inevitable spreading). Continue this process until all the dough has been rolled. Place baking sheets in preheated oven, one at a time, and bake for 9 to 10 minutes, or until golden at the edges but still soft in the middle. Repeat with all cookie dough. Let cookies cool for 10 minutes on the baking sheet before transferring to a wire wrack to cool completely.</li>
+          </ol>
+       </section>
+</body>
+</html>
