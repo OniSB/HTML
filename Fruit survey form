@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Fruit Survey form</h1>
+      <p id=description>Thank you for taking the time to help us improve fruits</p>
+    <form id="survey-form">
+      <label id="name-label">Name: <input id="name" type="text" placeholder="Enter your name" required></label>
+      </br >
+      <label id="email-label">Email: <input id="email" type="email" placeholder="Enter your email ID" required></label>
+      </br >
+      <label id="number-label">Age: <input id="number" type="number" placeholder="Enter your age" required min="0" max="100"></label>
+      </br ></br >
+      <p> Which option best describes how you feel about fruit in general?</p>
+      <select id="dropdown">
+        <option id="love-fruit">Love it</option>
+        <option id="hate-fruit">Hate it</option>
+      </select>
+      </br></br>
+      <p>Which of the following fruits are your favourite?</p>
+        <label for="apple"><input id="apple" type="radio" name="favourite-fruit" value="apple">Apple</label>
+        <label for="banana"><input id="banana" type="radio" name="favourite-fruit" value="banana">Banana</label>
+        <label for="oranges"><input id="oranges" type="radio" name="favourite-fruit" value="oranges">Oranges</label>
+        <label for="other"><input id="other" type="radio" name="favourite-fruit" value="other">Other</label>
+      <p>Which fruits would you have for breakfast out of the following?</p>
+        <label for="strawberries"><input id="strawberries" type="checkbox" value="strawberries">Strawberries</label>
+        <label for="raspberries"><input id="raspberries" type="checkbox" value="raspberries">Raspberries</label>
+        <label for="blueberries"><input id="blueberries" type="checkbox" value="blueberries">Blueberries</label>
+        <label for="apricot"><input id="apricot" type="checkbox" value="apricot">Apricot</label>
+      <p>Do you have any other comments on fruit you wish to add?</p>
+      <textarea placeholder="Enter comments here"></textarea>
+      <p>Click once you have filled in all your answers, to submit <Button type="submit" id="submit">Submit</Button>
+    </form>
+  </body>
+</html>
