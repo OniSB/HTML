@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Event Hub</h1> 
+            <nav>
+                <ul>
+                    <li><a href="#upcoming-events">Upcoming Events</a></li>
+                    <li><a href="#past-events">Past Events</a></li>
+                </ul>
+    </header>
+    <main>
+        <section id="upcoming-events">
+            <h2>Upcoming Events</h2>
+            <article>
+                <h3>Celebrating new computers</h3>
+                    <p>We will walk around a bunch of newer, fast supercomputers and celebrate them by checking them out! We will admire them.</br ></br >The event will be held on <time datetime="2025-02-14">February 14<sup>th</sup> 2024</time></p>                
+            </article>
+            <article>
+                <h3>Celebrating NFT images</h3>
+                    <p>We will look at a bunch of NFTs which have lost all value and think about what human society has come to!</br ></br >The event will be held on <time datetime="2025-02-14">February 14<sup>th</sup> 2025</time></p>
+            </article>
+        </section>
+        <section id="past-events">
+            <h2>Past Events</h2>
+            <article>
+                <h3>Celebrating old computers</h3>
+                    <p>We walked around a bunch of old computers and celebrate them by checking them out! We admired them.</br ></br >The event was held on <time datetime="2024-02-14">February 14<sup>th</sup> 2024</time></p>                
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event1.jpg" alt="Computer image">
+            </article>
+            <article>
+                <h3>Looking at random images of 'tech'</h3>
+                    <p>We looked at loads of 'tech' images. We used Google Images for this and just stared at them, thinkin about why they represent tech.</br ></br >The event was held on <time datetime="2024-02-15">February 15<sup>th</sup> 2024</time></p>                
+                <img src="https://cdn.freecodecamp.org/curriculum/labs/past-event2.jpg" alt="Random technical image">
+            </article>
+        </section>
+    </main>
+
+</body>
+
+</html>
