@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page></title>  
+  </head>
+  <body>
+    <h1>Discover Azerbaijan</h1>
+      <p>Azerbaijan is the land of legendary hospitality and fantastic cuisine. This country would surprise many. Well known writer and traveler Alexandre Dumas describing his impressions during his visit to Azerbaijan wrote: “If you knock on any door in Azerbaijan, say that you’re a foreigner and have no place to spend the night, the owner of the house will immediately give you his largest room and the housewife will prepare for you the main dish of Azerbaijani cuisine “pilaf”. Take a look at custom iteneraries providing memorable experiences across Azerbaijan
+      </p>
+      <h2>Packages</h2>
+        <p>There are two packages for your experience in Azerbaijan, take a look at which one is best for you!</p>
+        <ul>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+          <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+        </ul>
+      <h2>Top Itineraries</h2>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://mediaim.expedia.com/localexpert/1422342/88f9bb46-6681-41c9-9d0d-783fce2da181.jpg" alt="An image of Baku">
+        </a>
+        <figcaption>Baku, Azerbaijan</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/8a/45/32/caption.jpg?w=500&h=400&s=1" alt="Azerbaijan landscape">
+        </a>
+        <figcaption>Azerbaijan landscape</figcaption>
+      </figure>
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+          <img src="https://ati.az/storage/uploads/rich_text/6Txw5HA1CMeBgz6B1678881331_780x585.jpg" alt="Azerbaijan lakes">
+        </a>
+        <figcaption>Azerbaijan lakes</figcaption>
+      </figure>
+
+  </body>
+</html>
