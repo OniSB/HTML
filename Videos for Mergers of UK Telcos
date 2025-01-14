@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>UK Telco Players</h1>
+            <p>The UK market has six large telco operators; two established FMC players, two largely mobile challengers & two predominantly fixed challengers</p>
+        <section>
+            <h2>BT Group</h2>
+                <p>BT Group is the second largest mobile player in the UK, notably with it's consumer arm EE. Watch the former CEO of BT Consumer explain the partnership and acquisition of EE below:</p>
+                <iframe
+                    src="https://www.youtube.com/embed/watch?v=yJP_C77mJFQ"
+                    title="CEO of BT Consumer explains partnership with EE"
+                    height="200"
+                    width="400"
+                    allowfullscreen>
+                </iframe>    
+        </section>
+        <section>
+            <h2>Virgin Media O2 (VMO2)</h2>
+                <p>VMO2 is the largest mobile player in the UK. Watch the former Vodafone CEO explain why the Merger gave the UK the digital infrastructure it needed:</p>
+                <iframe
+                    src="https://www.youtube.com/embed/watch?v=o1j2dpPb1V0"
+                    title="CEO of Vodafone explains how merger will give UK digital infrastructure boost"
+                    height="200"
+                    width="400"
+                    allowfullscreen>
+                </iframe>    
+        </section>
+        <section>
+            <h2>Vodafone and Three</h2>
+                <p>Vodafone and Three are the two remaining large mobile players in the UK. They are currently undergoing the process of merging, to create a competitor for VMO2 and BT Group. Watch the current Vodafone Group CEO explain why the merger will be 'Bigger and Better' for customers:</p>
+                <iframe
+                    src="https://www.youtube.com/embed/watch?v=wCQ-BWIZdks"
+                    title="CEO explains why Vodafone-Three merger will be 'Bigger and Better' for customers"
+                    height="200"
+                    width="400"
+                    allowfullscreen>
+                </iframe>    
+        </section>
+    </main>
+</body>
+
+</html>
