@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+
+    <section>
+        <h2>Your Cart</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubig28e45RVqWrzjFa9BVRTPdHrV_iVhejQ&s" alt="Silver fork">
+    </section>
+        
+    <section>
+        <h2>Payment Information</h2>
+        <form>
+            <label for="card-name">Card Name: <input type="text" name="card-name" id="card-name" aria-required="true" required></label>
+            <label for="card-number">Card Number: <input type="text" name="card-number" id="card-number" aria-required="true" required>></label>
+        </form>
+    </section>
+</body>
+
+</html>
