@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+    <thead>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Genre</th>
+      <th>Publication Year</th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Memoirs of a Geisha</td>
+        <td>Arthur Golden</td>
+        <td>Historical Fiction</td>
+        <td>1997</td>
+      </tr>
+      <tr>
+        <td>The Kite Runner</td>
+        <td>Khaled Hosseini</td>
+        <td>Historical Fiction</td>
+        <td>2003</td>
+      </tr>
+      <tr>
+        <td>The Book Thief</td>
+        <td>Marcus Zusak</td>
+        <td>Historical Fiction</td>
+        <td>2005</td>
+      </tr>
+      <tr>
+        <td>All the Light We Cannot See</td>
+        <td>Anthony Doerr</td>
+        <td>Historical Fiction</td>
+        <td>2014</td>
+      </tr>
+      <tr>
+        <td>The Women</td>
+        <td>Kristin Hannah</td>
+        <td>Historical Fiction</td>
+        <td>2024</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+      </tr>
+    </tfoot>
+  </table>
+</body>
+
+</html>
